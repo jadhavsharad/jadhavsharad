@@ -1,8 +1,10 @@
-![8469934](https://github.com/jadhavsharad/jadhavsharad/assets/60263979/9ae257ee-ef87-47c1-baf3-694e40a1174a)
 
-<h1 align='center'>
+![8469934](https://github.com/jadhavsharad/jadhavsharad/assets/60263979/a79064da-86ea-47cb-850e-4cc980e44813)
+
+
+<h2 align='center'>
     Hi there, I'm Sharad👋
-</h1>
+</h2>
 <h3 align='center'>
     I Love to Craft Innovative Frontend 🚀 and iOS Experiences 🌐
 </h3>
@@ -30,8 +32,9 @@ I ocassionally develop web frontend. Also developed many iot and robotics relate
          Ethical Hacking 🛜
     </li>
 </ul>
+<hr>
 <br>
-<br>
+
 
 ### 🤝🏻 Connect with me
 
@@ -66,6 +69,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
         iOS Development
     </li>
 </ul>
+<hr>
 <br>
 
 #### 🖥️ Languages
