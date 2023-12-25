@@ -1,5 +1,7 @@
+![8469934](https://github.com/jadhavsharad/jadhavsharad/assets/60263979/9ae257ee-ef87-47c1-baf3-694e40a1174a)
+
 <h1 align='center'>
-    Hi there, I'm <a href="https://portfolio-jadhavsharad.vercel.app/" target=”_blank” rel=”noreferrer”>Sharad</a> 👋
+    Hi there, I'm Sharad👋
 </h1>
 <h3 align='center'>
     I Love to Craft Innovative Frontend 🚀 and iOS Experiences 🌐
@@ -7,6 +9,7 @@
 
 ## About me
 I'm Sharad Jadhav. An iOS Developer, Expert on Web Frontend. Community is ❤️.  1xEngineer 😛 and ☕ lover.
+My Portfolio is Available <a href="https://portfolio-jadhavsharad.vercel.app/" target=”_blank” rel=”noreferrer”>Here</a>
 I ocassionally develop web frontend. Also developed many iot and robotics related stuff.
 <br>
 <br>
