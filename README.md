@@ -33,8 +33,6 @@ I ocassionally develop web frontend. Also developed many iot and robotics relate
     </li>
 </ul>
 <hr>
-<br>
-
 
 ### 🤝🏻 Connect with me
 
@@ -52,9 +50,6 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <ul list-style-type="disc">
     <li>
 </ul>
-<br>
-<br>
-
 
 ### 🌱 Currently Learning
 
@@ -70,7 +65,6 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
     </li>
 </ul>
 <hr>
-<br>
 
 #### 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
