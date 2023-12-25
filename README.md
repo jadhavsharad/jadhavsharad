@@ -9,6 +9,10 @@
 I'm Sharad Jadhav. An iOS Developer, Expert on Web Frontend. Community is ❤️.  1xEngineer 😛 and ☕ lover.
 I ocassionally develop web frontend. Also developed many iot and robotics related stuff.
 <br>
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-jadhavsharad&style=for-the-badge)
+<br>
+<br>
 
 ## Things I'm Passionate about:
 
@@ -24,6 +28,7 @@ I ocassionally develop web frontend. Also developed many iot and robotics relate
     </li>
 </ul>
 <br>
+<br>
 
 ## Connect with me 🤝🏻:
 
@@ -34,12 +39,16 @@ I ocassionally develop web frontend. Also developed many iot and robotics relate
 </a> <br> <br>
 If you have any question/feedback, please do not hesitate to reach out to me! 💬 
 <br>
+<br>
+
 
 ## 🔭 Currently Working on:
 <ul list-style-type="disc">
     <li>
 </ul>
 <br>
+<br>
+
 
 ## 🌱 Currently Learning:
 
@@ -66,11 +75,15 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <br>
+<br>
+
 
 ### 🎨 Grooved Thorugh CSS Frameworks:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
+<br>
+
 
 ### 🫧 Bunch of Other Cool Tech Skills
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -81,6 +94,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <br>
+<br>
 
 ### ✨ Navigated The Sphere of Operating Systems
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -89,19 +103,20 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
+<br>
 
 ### 🖌️ Adobe Alchemist :
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+<br>
+<br>
 
-### 📈 GitHub Stats
-----
+## 📈 GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jadhavsharad)](https://github.com/jadhavsharad)
 <br>
-
-### ⚡️ Top Languages
-----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsharad&layout=compact)](https://github.com/jadhavsharad)
 <br>
 
+## ⚡️ Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsharad&layout=compact)](https://github.com/jadhavsharad)
+<br>
