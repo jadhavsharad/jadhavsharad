@@ -30,7 +30,7 @@ I ocassionally develop web frontend. Also developed many iot and robotics relate
 <br>
 <br>
 
-## 🤝🏻 Connect with me
+### 🤝🏻 Connect with me
 
 <a href="https://www.linkedin.com/in/sharad-jadhav-b39395250/"><img align="left"  src="https://raw.githubusercontent.com/jadhavsharad/jadhavsharad/main/images/linkedin.png" alt="Sharad | LinkedIn" width="25px"/></a>
 <a href="https://www.instagram.com/sharadjadhav670/"><img align="left"  src="https://raw.githubusercontent.com/jadhavsharad/jadhavsharad/main/images/instagram.png" alt="Sharad | Instagram" width="25px"/>
@@ -42,7 +42,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <br>
 
 
-## 🔭 Currently Working on
+### 🔭 Currently Working on
 <ul list-style-type="disc">
     <li>
 </ul>
@@ -50,7 +50,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <br>
 
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 <ul list-style-type="disc">
     <li>
