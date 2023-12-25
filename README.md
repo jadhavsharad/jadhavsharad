@@ -30,7 +30,7 @@ I ocassionally develop web frontend. Also developed many iot and robotics relate
 <br>
 <br>
 
-## Connect with me 🤝🏻
+## 🤝🏻 Connect with me
 
 <a href="https://www.linkedin.com/in/sharad-jadhav-b39395250/"><img align="left"  src="https://raw.githubusercontent.com/jadhavsharad/jadhavsharad/main/images/linkedin.png" alt="Sharad | LinkedIn" width="25px"/></a>
 <a href="https://www.instagram.com/sharadjadhav670/"><img align="left"  src="https://raw.githubusercontent.com/jadhavsharad/jadhavsharad/main/images/instagram.png" alt="Sharad | Instagram" width="25px"/>
@@ -42,7 +42,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <br>
 
 
-## Currently Working on 🔭
+## 🔭 Currently Working on
 <ul list-style-type="disc">
     <li>
 </ul>
@@ -50,7 +50,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <br>
 
 
-## Currently Learning 🌱
+## 🌱 Currently Learning
 
 <ul list-style-type="disc">
     <li>
@@ -65,7 +65,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 </ul>
 <br>
 
-### Languages 🖥️
+#### 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -78,14 +78,14 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <br>
 
 
-### Grooved Thorugh CSS Frameworks 🎨
+#### 🎨 Grooved Thorugh CSS Frameworks
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 <br>
 
 
-### Bunch of Other Cool Tech Skills 🫧
+#### 🫧 Bunch of Other Cool Tech Skills
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -96,7 +96,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <br>
 <br>
 
-### Navigated The Sphere of Operating Systems ✨
+#### ✨ Navigated The Sphere of Operating Systems
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -105,18 +105,18 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <br>
 <br>
 
-### Adobe Alchemist 🖌️
+#### 🖌️ Adobe Alchemist
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 <br>
 <br>
 
-## GitHub Stats 📈
+### 📈 GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jadhavsharad)](https://github.com/jadhavsharad)
 <br>
 <br>
 
-## Top Languages ⚡️:
+### ⚡ Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsharad&layout=compact)](https://github.com/jadhavsharad)
 <br>
