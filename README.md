@@ -10,7 +10,7 @@
 </h3>
 
 ## About me
-I'm Sharad Jadhav. An iOS Developer, Expert on Web Frontend. Community is ❤️.  1xEngineer 😛 and ☕ lover.
+I'm Sharad Jadhav. An iOS Developer, Intermediate on Web Frontend. Community is ❤️.  1xEngineer 😛 and ☕ lover.
 My Portfolio is Available <a href="https://portfolio-jadhavsharad.vercel.app/" target=”_blank” rel=”noreferrer”>Here</a>
 I ocassionally develop web frontend. Also developed many iot and robotics related stuff.
 <br>
@@ -49,6 +49,8 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 ### 🔭 Currently Working on
 <ul list-style-type="disc">
     <li>
+        Spotify Clone
+    </li>
 </ul>
 
 ### 🌱 Currently Learning
