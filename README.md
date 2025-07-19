@@ -1,49 +1,93 @@
 
-![8469934](https://github.com/jadhavsharad/jadhavsharad/assets/60263979/a79064da-86ea-47cb-850e-4cc980e44813)
+<!-- ![8469934](https://github.com/jadhavsharad/jadhavsharad/assets/60263979/a79064da-86ea-47cb-850e-4cc980e44813) -->
+<!-- <img width="1280" alt="image" src="https://github.com/user-attachments/assets/083afc9b-6f34-4100-afc5-b655ff748344" /> -->
 
+<div align="center">
+<!-- <img width="875" alt="image" src="https://github.com/user-attachments/assets/6d93e3ac-d011-4f31-bd6f-449d57dfa7e9" /> -->
+    <img width="925"  alt="image" src="https://github.com/user-attachments/assets/a24751c0-b64d-45e8-821c-d3c8d9c6cb18" />
 
-<h2 align='center'>
-    Hi there, I'm Sharad👋
-</h2>
-<h3 align='center'>
-    I Love to Craft Innovative Frontend 🚀 and iOS Experiences 🌐
-</h3>
+</div>
 
-## About me
-I'm Sharad Jadhav. An iOS Developer, Intermediate on Web Frontend. Community is ❤️.  1xEngineer 😛 and ☕ lover.
-My Portfolio is Available <a href="https://portfolio-jadhavsharad.vercel.app/" target=”_blank” rel=”noreferrer”>Here</a>
-I ocassionally develop web frontend. Also developed many iot and robotics related stuff.
-<br>
-<br>
+---
+
+<div align="center" width="100svw">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=36&duration=4000&pause=500&color=fff&center=true&vCenter=true&width=800&lines=Hi+I'm+Sharad+Jadhav!;Apple+Developer+%7C+Fullstack+Web+Developer;Building+The+Future+One+Commit+At+A+Time" alt="Sharad Jadhav" />
+</div>
+
+---
+
+<div align="right">
+    
 ![](https://komarev.com/ghpvc/?username=your-github-jadhavsharad&style=for-the-badge)
-<br>
-<br>
 
-## Things I'm Passionate about:
+</div>
 
-<ul>
-    <li>
-        IOT and Robotics 🤖
-    </li>
-    <li>
-        Web Frontend 🌐
-    </li>
-    <li>
-         Ethical Hacking 🛜
-    </li>
-</ul>
-<hr>
+<!-- <img width="1280" alt="image" src="https://github.com/user-attachments/assets/02e714ca-78f8-422b-a8e7-da5f98e2af7a" /> -->
+
+## 👨🏻‍🚀 About me
+
+🚀  [View My Portfolio](https://portfolio-jadhavsharad.vercel.app/)
+
+<div style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 2rem; border-radius: 20px; border: 1px solid rgba(122, 62, 255, 0.3); box-shadow: 0 10px 30px rgba(122, 62, 255, 0.2);">
+
+```javascript
+const sharad = {
+  passion: "Creating elegant solutions to complex problems",
+  focus: [
+    "Full Stack Development",
+    "Apple Development",
+    "IoT & Robotics",
+  ],
+  hobbies: ["Open Source", "IoT and Robotics", "Ethical Hacking"],
+  portfolio: "https://sharadjadhavportfolio.vercel.app/"
+};
+```
+
+</div>
+
+## 🏆 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Portfolio V2</h3>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+      <p>Highly interactive developer portfolio with Locomotive Scroll</p>
+      <span >Private Repo</span>
+    </td>
+    <td align="center" width="33%">
+      <h3>Youtube Downloader</h3>
+      <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+      <p>Ultimate macOS youtube video downloader</p>
+      <a href="https://github.com/jadhavsharad/Youtube-Downloader">View Repo</a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Portfolio Manager</h3>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+      <p>Management app to seamlessly manage my portfolio</p>
+      <span>Private Repo</span>
+    </td>
+  </tr>
+</table>
+
 
 ### 🤝🏻 Connect with me
 
-<a href="https://www.linkedin.com/in/sharad-jadhav-b39395250/"><img align="left"  src="https://raw.githubusercontent.com/jadhavsharad/jadhavsharad/main/images/linkedin.png" alt="Sharad | LinkedIn" width="25px"/></a>
-<a href="https://www.instagram.com/sharadjadhav670/"><img align="left"  src="https://raw.githubusercontent.com/jadhavsharad/jadhavsharad/main/images/instagram.png" alt="Sharad | Instagram" width="25px"/>
-</a>
-<a href="https://github.com/jadhavsharad/"><img align="left" src="https://raw.githubusercontent.com/jadhavsharad/jadhavsharad/main/images/github.png" alt="Sharad | Github" width="25px"/>
-</a> <br> <br>
-If you have any question/feedback, please do not hesitate to reach out to me! 💬 
+<div align="left">
+  <a href="https://www.linkedin.com/in/sharad-jadhav-b39395250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://github.com/jadhavsharad"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
+  <a href="https://instagram.com/sharadjadhav670"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
+  <a href="mailto:jadhavsharad290@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+</div>
 <br>
-<br>
+<div>
+    
+**If you have any question/feedback, please do not hesitate to reach out to me! 💬**
+    
+</div>
+
+
+    
 
 
 ### 🌱 Currently Learning
@@ -93,18 +137,30 @@ If you have any question/feedback, please do not hesitate to reach out to me! �
 <br>
 <br>
 
-#### 🖌️ Adobe Alchemist
+#### 🖌️ Creativity
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 <br>
 <br>
 
-### 📈 GitHub Stats
-[![Sharad’s github stats](https://github-readme-stats.vercel.app/api?username=jadhavsharad)](https://github.com/jadhavsharad)
-<br>
-<br>
+## 📊 GitHub Analytics
+<div align="center">
+<!-- GitHub Stats Card -->
+<a href="https://github.com/jadhavsharad"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavsharad&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" alt="Sharad's GitHub Stats"/></a> <!-- Streak Stats --> <a href="https://github.com/jadhavsharad"><img height="180em" src="https://streak-stats.demolab.com?user=jadhavsharad&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a> <!-- Top Languages --> <a href="https://github.com/jadhavsharad"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsharad&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages"/></a>
 
-### ⚡ Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsharad&layout=compact)](https://github.com/jadhavsharad)
-<br>
+<!-- Activity Graph -->
+<a href="https://github.com/jadhavsharad"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavsharad&theme=react&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/> </a> 
+</div>
+
+## ☕ Support My Work
+
+**If you appreciate my projects and want to support my work**
+<div align="left">
+  <a href="https://www.buymeacoffee.com/jadhavsharad">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge" alt="Buy Me A Coffee">
+  </a>
+</div>
+
+---
+
