@@ -46,24 +46,14 @@ If you have any question/feedback, please do not hesitate to reach out to me! ðŸ
 <br>
 
 
-### ðŸ”­ Currently Working on
-<ul list-style-type="disc">
-    <li>
-        Spotify Clone
-    </li>
-</ul>
-
 ### ðŸŒ± Currently Learning
 
 <ul list-style-type="disc">
     <li>
-        Swift
+        Data Structure and Algorithms
     </li>
     <li>
-        Angular
-    </li>
-    <li>
-        iOS Development
+        Apple Development
     </li>
 </ul>
 <hr>
@@ -73,10 +63,8 @@ If you have any question/feedback, please do not hesitate to reach out to me! ðŸ
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <br>
 <br>
 
@@ -90,8 +78,6 @@ If you have any question/feedback, please do not hesitate to reach out to me! ðŸ
 
 #### ðŸ«§ Bunch of Other Cool Tech Skills
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -103,7 +89,6 @@ If you have any question/feedback, please do not hesitate to reach out to me! ðŸ
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
 <br>
@@ -116,7 +101,7 @@ If you have any question/feedback, please do not hesitate to reach out to me! ðŸ
 <br>
 
 ### ðŸ“ˆ GitHub Stats
-[![Anuragâ€™s github stats](https://github-readme-stats.vercel.app/api?username=jadhavsharad)](https://github.com/jadhavsharad)
+[![Sharadâ€™s github stats](https://github-readme-stats.vercel.app/api?username=jadhavsharad)](https://github.com/jadhavsharad)
 <br>
 <br>
 
