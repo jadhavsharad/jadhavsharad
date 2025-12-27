@@ -146,9 +146,6 @@ const sharad = {
 
 ## 📊 GitHub Analytics
 <div align="center">
-<!-- GitHub Stats Card -->
-<a href="https://github.com/jadhavsharad"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavsharad&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" alt="Sharad's GitHub Stats"/></a> <!-- Streak Stats --> <a href="https://github.com/jadhavsharad"><img height="180em" src="https://streak-stats.demolab.com?user=jadhavsharad&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a> <!-- Top Languages --> <a href="https://github.com/jadhavsharad"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsharad&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages"/></a>
-
 <!-- Activity Graph -->
 <a href="https://github.com/jadhavsharad"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavsharad&theme=react&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/> </a> 
 </div>
